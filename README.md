@@ -6,3 +6,4 @@ verilog basic Designs
 2x4 Decoder
 4x2 Decoder
 Full adder
+
